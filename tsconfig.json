@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "module": "ES2020",
+    "declaration": true,
+    "noImplicitAny": false,
+    "removeComments": true,
+    "noLib": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "es6",
+    "emitDeclarationOnly":true,
+    "allowImportingTsExtensions":true,
+    "sourceMap": true,
+    "lib": [
+      "es6",
+      "dom"
+    ]
+  },
+  "exclude": [
+    "node_modules",
+    "**/*.spec.ts"
+  ]
+ }

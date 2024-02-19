@@ -1,0 +1,22 @@
+{
+  "name": "custom-ui-library",
+  "version": "0.0.0",
+  "description": "> TODO: custom UI Library made with Snabdom",
+  "author": "prathamesh thakare <prathamesh06pt@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/custom-ui-library.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "tsc": "tsc",
+    "test": ""
+  },
+  "dependencies": {
+    "snabbdom": "^3.6.2"
+  }
+}

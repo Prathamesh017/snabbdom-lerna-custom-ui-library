@@ -1,0 +1,20 @@
+{
+  "name": "client-lib",
+  "version": "0.0.0",
+  "description": "> TODO: client side to interact with UI library",
+  "author": "prathamesh thakare <prathamesh06pt@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "tsc": "tsc",
+    "test": ""
+  }
+  
+}
